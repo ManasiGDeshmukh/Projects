@@ -1,8 +1,5 @@
 # Title of Project: Bus Reservation System
-#### Group details: UCE2021413 Manasi Deshmukh
-####                UCE2021408 Sayli Borole
-####                UCE2021411 Sakshi Dabhade
-####                UCE2021412 Aarya Dandapur
+#### Team Members: Manasi Deshmukh, Sayli Borole, Sakshi Dabhade, Aarya Dandapur
 
 
 ### Problem statement
