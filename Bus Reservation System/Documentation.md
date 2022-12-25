@@ -1,11 +1,11 @@
 # Title of Project: Bus Reservation System
-## Group details: UCE2021413 Manasi Deshmukh
-##                UCE2021408 Sayli Borole
-##                UCE2021411 Sakshi Dabhade
-##                UCE2021412 Aarya Dandapur
+#### Group details: UCE2021413 Manasi Deshmukh
+####                UCE2021408 Sayli Borole
+####                UCE2021411 Sakshi Dabhade
+####                UCE2021412 Aarya Dandapur
 
 
-## Problem statement
+### Problem statement
 Create a bus reservation system that allows passengers to reserve seats, cancel reservations,
 be placed on a waiting list if all available seats are taken, and determine the total fare.
 Data structures used:
