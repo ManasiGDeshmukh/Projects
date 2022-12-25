@@ -1,0 +1,742 @@
+ --------------------------------
+ |		1. BOOKING				 |
+ |_______________________________|
+ |		2. CANCELLATION			 |
+ |_______________________________|
+ |		3. CHECK STATUS			 |
+ |_______________________________|
+ |		4. EXIT				   	 |
+ |_______________________________|
+ 
+ 1
+ 
+          Available Stops
+ --------------------------------------
+ Pune |  Nagar |  Aurangabad |  Hadapsar | 
+ Pimpri |  Karve |  Swargate |  Satara | 
+ Sangli |  Solapur |  Beed |  Mumbai | 
+ Raigarh |  Ratnagiri | 
+ --------------------------------------
+  Enter the departure:  punr
+  Enter the destination:  nagar
+ 
+  Bus not available !!!!
+ 
+ --------------------------------
+ |		1. BOOKING				 |
+ |_______________________________|
+ |		2. CANCELLATION			 |
+ |_______________________________|
+ |		3. CHECK STATUS			 |
+ |_______________________________|
+ |		4. EXIT				   	 |
+ |_______________________________|
+ 
+ 1
+ 
+          Available Stops
+ --------------------------------------
+ Pune |  Nagar |  Aurangabad |  Hadapsar | 
+ Pimpri |  Karve |  Swargate |  Satara | 
+ Sangli |  Solapur |  Beed |  Mumbai | 
+ Raigarh |  Ratnagiri | 
+ --------------------------------------
+  Enter the departure:  pune
+  Enter the destination:  nagar
+ -------------------------------
+  Bus ID: 1
+  Bus Name: JABBAR
+  Bus Time: 10:30
+ -------------------------------
+  Enter Bus Id: 1
+    ------------
+   | 1 2 3 4 5  |
+   | 6 7 8 9 10 |  --> DRIVER
+    ------------
+  Enter number of seats: 10
+  Enter your name: y
+  Enter seat number: 1
+ 
+  *Fare: 278
+ 
+  Do you want to confirm booking?? Y/N : y
+ 
+  Booking successful!
+ 
+ 
+  ------------ YOUR TICKET ------------
+ | Name: y				|
+ | Bus ID: 1	| Bus Name: JABBAR	|
+ | Seat No.: 1	| Fare: 278		|
+ | PNR: 111				|
+  -------------------------------------
+  * Note your PNR for future reference
+ 
+ 
+  Enter your name: y
+  Enter seat number: 2
+ 
+  *Fare: 278
+ 
+  Do you want to confirm booking?? Y/N : y
+ 
+  Booking successful!
+ 
+ 
+  ------------ YOUR TICKET ------------
+ | Name: y				|
+ | Bus ID: 1	| Bus Name: JABBAR	|
+ | Seat No.: 2	| Fare: 278		|
+ | PNR: 112				|
+  -------------------------------------
+  * Note your PNR for future reference
+ 
+ 
+  Enter your name: y
+  Enter seat number: 3
+ 
+  *Fare: 278
+ 
+  Do you want to confirm booking?? Y/N : y
+ 
+  Booking successful!
+ 
+ 
+  ------------ YOUR TICKET ------------
+ | Name: y				|
+ | Bus ID: 1	| Bus Name: JABBAR	|
+ | Seat No.: 3	| Fare: 278		|
+ | PNR: 113				|
+  -------------------------------------
+  * Note your PNR for future reference
+ 
+ 
+  Enter your name: y
+  Enter seat number: 4
+ 
+  *Fare: 278
+ 
+  Do you want to confirm booking?? Y/N : y
+ 
+  Booking successful!
+ 
+ 
+  ------------ YOUR TICKET ------------
+ | Name: y				|
+ | Bus ID: 1	| Bus Name: JABBAR	|
+ | Seat No.: 4	| Fare: 278		|
+ | PNR: 114				|
+  -------------------------------------
+  * Note your PNR for future reference
+ 
+ 
+  Enter your name: y
+  Enter seat number: 5
+ 
+  *Fare: 278
+ 
+  Do you want to confirm booking?? Y/N : y
+ 
+  Booking successful!
+ 
+ 
+  ------------ YOUR TICKET ------------
+ | Name: y				|
+ | Bus ID: 1	| Bus Name: JABBAR	|
+ | Seat No.: 5	| Fare: 278		|
+ | PNR: 115				|
+  -------------------------------------
+  * Note your PNR for future reference
+ 
+ 
+  Enter your name: y
+  Enter seat number: 6
+ 
+  *Fare: 278
+ 
+  Do you want to confirm booking?? Y/N : y
+ 
+  Booking successful!
+ 
+ 
+  ------------ YOUR TICKET ------------
+ | Name: y				|
+ | Bus ID: 1	| Bus Name: JABBAR	|
+ | Seat No.: 6	| Fare: 278		|
+ | PNR: 116				|
+  -------------------------------------
+  * Note your PNR for future reference
+ 
+ 
+  Enter your name: y
+  Enter seat number: 7
+ 
+  *Fare: 278
+ 
+  Do you want to confirm booking?? Y/N : y
+ 
+  Booking successful!
+ 
+ 
+  ------------ YOUR TICKET ------------
+ | Name: y				|
+ | Bus ID: 1	| Bus Name: JABBAR	|
+ | Seat No.: 7	| Fare: 278		|
+ | PNR: 117				|
+  -------------------------------------
+  * Note your PNR for future reference
+ 
+ 
+  Enter your name: y
+  Enter seat number: 8
+ 
+  *Fare: 278
+ 
+  Do you want to confirm booking?? Y/N : y
+ 
+  Booking successful!
+ 
+ 
+  ------------ YOUR TICKET ------------
+ | Name: y				|
+ | Bus ID: 1	| Bus Name: JABBAR	|
+ | Seat No.: 8	| Fare: 278		|
+ | PNR: 118				|
+  -------------------------------------
+  * Note your PNR for future reference
+ 
+ 
+  Enter your name: y
+  Enter seat number: 9
+ 
+  *Fare: 278
+ 
+  Do you want to confirm booking?? Y/N : y
+ 
+  Booking successful!
+ 
+ 
+  ------------ YOUR TICKET ------------
+ | Name: y				|
+ | Bus ID: 1	| Bus Name: JABBAR	|
+ | Seat No.: 9	| Fare: 278		|
+ | PNR: 119				|
+  -------------------------------------
+  * Note your PNR for future reference
+ 
+ 
+  Enter your name: y
+  Enter seat number: 10
+ 
+  *Fare: 278
+ 
+  Do you want to confirm booking?? Y/N : y
+ 
+  Booking successful!
+ 
+ 
+  ------------ YOUR TICKET ------------
+ | Name: y				|
+ | Bus ID: 1	| Bus Name: JABBAR	|
+ | Seat No.: 10	| Fare: 278		|
+ | PNR: 120				|
+  -------------------------------------
+  * Note your PNR for future reference
+ 
+ 
+ --------------------------------
+ |		1. BOOKING				 |
+ |_______________________________|
+ |		2. CANCELLATION			 |
+ |_______________________________|
+ |		3. CHECK STATUS			 |
+ |_______________________________|
+ |		4. EXIT				   	 |
+ |_______________________________|
+ 
+ 1
+ 
+          Available Stops
+ --------------------------------------
+ Pune |  Nagar |  Aurangabad |  Hadapsar | 
+ Pimpri |  Karve |  Swargate |  Satara | 
+ Sangli |  Solapur |  Beed |  Mumbai | 
+ Raigarh |  Ratnagiri | 
+ --------------------------------------
+  Enter the departure:  pune 
+  Enter the destination:  nagar
+ -------------------------------
+  Bus ID: 1
+  Bus Name: JABBAR
+  Bus Time: 10:30
+ -------------------------------
+  Enter Bus Id: 1
+    ------------
+   | B B B B B  |
+   | B B B B B |  --> DRIVER
+    ------------
+  Enter number of seats: 1
+  Seats not avalible !!!
+ Do you want to enter the waiting list? Y/N
+ y
+  Enter your name: sayli
+ your PNR No.: 1111
+ --------------------------------
+ |		1. BOOKING				 |
+ |_______________________________|
+ |		2. CANCELLATION			 |
+ |_______________________________|
+ |		3. CHECK STATUS			 |
+ |_______________________________|
+ |		4. EXIT				   	 |
+ |_______________________________|
+ 
+ 3
+ 
+  Enter Bus Id: 1
+  Enter PNR No: 1111
+  Passenger Name :sayli
+  SeatNo. :0
+  Departure :0
+  Destination :1
+  Passenger in queue
+ --------------------------------
+ |		1. BOOKING				 |
+ |_______________________________|
+ |		2. CANCELLATION			 |
+ |_______________________________|
+ |		3. CHECK STATUS			 |
+ |_______________________________|
+ |		4. EXIT				   	 |
+ |_______________________________|
+ 
+ 2
+ 
+  Enter Bus Id: 1
+  Enter PNR No: 120
+ 
+  Passenger Name :y		SeatNo. :10
+  Departure :Pune			Destination :Nagar
+ 
+  Comfirm Cancellation? Y/N :  y
+ Cancellation Successful
+ --------------------------------
+ |		1. BOOKING				 |
+ |_______________________________|
+ |		2. CANCELLATION			 |
+ |_______________________________|
+ |		3. CHECK STATUS			 |
+ |_______________________________|
+ |		4. EXIT				   	 |
+ |_______________________________|
+ 
+ 3
+ 
+  Enter Bus Id: 1
+  Enter PNR No: 1111
+ 
+  Passenger Name :sayli		SeatNo. :10
+  Departure :Pune			Destination :Nagar
+ 
+  Booking Status: Seat Confirmed
+ --------------------------------
+ |		1. BOOKING				 |
+ |_______________________________|
+ |		2. CANCELLATION			 |
+ |_______________________________|
+ |		3. CHECK STATUS			 |
+ |_______________________________|
+ |		4. EXIT				   	 |
+ |_______________________________|
+ 
+
+ --------------------------------
+ |		1. BOOKING				 |
+ |_______________________________|
+ |		2. CANCELLATION			 |
+ |_______________________________|
+ |		3. CHECK STATUS			 |
+ |_______________________________|
+ |		4. EXIT				   	 |
+ |_______________________________|
+ 
+ 1
+ 
+          Available Stops
+ --------------------------------------
+ Pune |  Nagar |  Aurangabad |  Hadapsar | 
+ Pimpri |  Karve |  Swargate |  Satara | 
+ Sangli |  Solapur |  Beed |  Mumbai | 
+ Raigarh |  Ratnagiri | 
+ --------------------------------------
+  Enter the departure:  pune
+  Enter the destination:  nagar
+ -------------------------------
+  Bus ID: 1
+  Bus Name: JABBAR
+  Bus Time: 10:30
+ -------------------------------
+  Enter Bus Id: 1
+    ------------
+   | 1 2 3 4 5  |
+   | 6 7 8 9 10 |  --> DRIVER
+    ------------
+  Enter number of seats: 1
+  Enter your name: y
+  Enter seat number: 1
+ 
+  *Fare: 278
+ 
+  Do you want to confirm booking?? Y/N : y
+ 
+  Booking successful!
+ here1
+ 
+ 
+  ------------ YOUR TICKET ------------
+ | Name: y				|
+ | Bus ID: 1	| Bus Name: JABBAR	|
+ | Seat No.: 1	| Fare: 278		|
+ | PNR: 111				|
+  -------------------------------------
+  * Note your PNR for future reference
+ 
+ 
+ --------------------------------
+ |		1. BOOKING				 |
+ |_______________________________|
+ |		2. CANCELLATION			 |
+ |_______________________________|
+ |		3. CHECK STATUS			 |
+ |_______________________________|
+ |		4. EXIT				   	 |
+ |_______________________________|
+ 
+ 1
+ 
+          Available Stops
+ --------------------------------------
+ Pune |  Nagar |  Aurangabad |  Hadapsar | 
+ Pimpri |  Karve |  Swargate |  Satara | 
+ Sangli |  Solapur |  Beed |  Mumbai | 
+ Raigarh |  Ratnagiri | 
+ --------------------------------------
+  Enter the departure:  punr
+  Enter the destination:  nagar
+ 
+  Bus not available !!!!
+ 
+ --------------------------------
+ |		1. BOOKING				 |
+ |_______________________________|
+ |		2. CANCELLATION			 |
+ |_______________________________|
+ |		3. CHECK STATUS			 |
+ |_______________________________|
+ |		4. EXIT				   	 |
+ |_______________________________|
+ 
+ 1
+ 
+          Available Stops
+ --------------------------------------
+ Pune |  Nagar |  Aurangabad |  Hadapsar | 
+ Pimpri |  Karve |  Swargate |  Satara | 
+ Sangli |  Solapur |  Beed |  Mumbai | 
+ Raigarh |  Ratnagiri | 
+ --------------------------------------
+  Enter the departure:  pune
+  Enter the destination:  nagar
+ -------------------------------
+  Bus ID: 1
+  Bus Name: JABBAR
+  Bus Time: 10:30
+ -------------------------------
+  Enter Bus Id: 1
+    ------------
+   | B 2 3 4 5  |
+   | 6 7 8 9 10 |  --> DRIVER
+    ------------
+  Enter number of seats: 6
+  Enter your name: y
+  Enter seat number: 2
+ 
+  *Fare: 278
+ 
+  Do you want to confirm booking?? Y/N : y
+ 
+  Booking successful!
+ here1
+ 
+ 
+  ------------ YOUR TICKET ------------
+ | Name: y				|
+ | Bus ID: 1	| Bus Name: JABBAR	|
+ | Seat No.: 2	| Fare: 278		|
+ | PNR: 112				|
+  -------------------------------------
+  * Note your PNR for future reference
+ 
+ 
+  Enter your name: y
+  Enter seat number: 3
+ 
+  *Fare: 278
+ 
+  Do you want to confirm booking?? Y/N : y
+ 
+  Booking successful!
+ here1
+ 
+ 
+  ------------ YOUR TICKET ------------
+ | Name: y				|
+ | Bus ID: 1	| Bus Name: JABBAR	|
+ | Seat No.: 3	| Fare: 278		|
+ | PNR: 113				|
+  -------------------------------------
+  * Note your PNR for future reference
+ 
+ 
+  Enter your name: y
+  Enter seat number: 4
+ 
+  *Fare: 278
+ 
+  Do you want to confirm booking?? Y/N : y
+ 
+  Booking successful!
+ here1
+ 
+ 
+  ------------ YOUR TICKET ------------
+ | Name: y				|
+ | Bus ID: 1	| Bus Name: JABBAR	|
+ | Seat No.: 4	| Fare: 278		|
+ | PNR: 114				|
+  -------------------------------------
+  * Note your PNR for future reference
+ 
+ 
+  Enter your name: y
+  Enter seat number: 5
+ 
+  *Fare: 278
+ 
+  Do you want to confirm booking?? Y/N : y
+ 
+  Booking successful!
+ here1
+ 
+ 
+  ------------ YOUR TICKET ------------
+ | Name: y				|
+ | Bus ID: 1	| Bus Name: JABBAR	|
+ | Seat No.: 5	| Fare: 278		|
+ | PNR: 115				|
+  -------------------------------------
+  * Note your PNR for future reference
+ 
+ 
+  Enter your name: y
+  Enter seat number: 6
+ 
+  *Fare: 278
+ 
+  Do you want to confirm booking?? Y/N : y
+ 
+  Booking successful!
+ here1
+ 
+ 
+  ------------ YOUR TICKET ------------
+ | Name: y				|
+ | Bus ID: 1	| Bus Name: JABBAR	|
+ | Seat No.: 6	| Fare: 278		|
+ | PNR: 116				|
+  -------------------------------------
+  * Note your PNR for future reference
+ 
+ 
+  Enter your name: y
+  Enter seat number: 7
+ 
+  *Fare: 278
+ 
+  Do you want to confirm booking?? Y/N : y
+ 
+  Booking successful!
+ here1
+ 
+ 
+  ------------ YOUR TICKET ------------
+ | Name: y				|
+ | Bus ID: 1	| Bus Name: JABBAR	|
+ | Seat No.: 7	| Fare: 278		|
+ | PNR: 117				|
+  -------------------------------------
+  * Note your PNR for future reference
+ 
+ 
+ --------------------------------
+ |		1. BOOKING				 |
+ |_______________________________|
+ |		2. CANCELLATION			 |
+ |_______________________________|
+ |		3. CHECK STATUS			 |
+ |_______________________________|
+ |		4. EXIT				   	 |
+ |_______________________________|
+ 
+ 1
+ 
+          Available Stops
+ --------------------------------------
+ Pune |  Nagar |  Aurangabad |  Hadapsar | 
+ Pimpri |  Karve |  Swargate |  Satara | 
+ Sangli |  Solapur |  Beed |  Mumbai | 
+ Raigarh |  Ratnagiri | 
+ --------------------------------------
+  Enter the departure:  pune
+  Enter the destination:  nagar
+ -------------------------------
+  Bus ID: 1
+  Bus Name: JABBAR
+  Bus Time: 10:30
+ -------------------------------
+  Enter Bus Id: 1
+    ------------
+   | B B B B B  |
+   | B B 8 9 10 |  --> DRIVER
+    ------------
+  Enter number of seats: 4
+  Seats not avalible !!!
+ Do you want to enter the waiting list? Y/N
+ y
+  Enter your name: a
+ 
+ 
+  ------------ YOUR TICKET ------------
+ | Name: a				|
+ | Bus ID: 1	| Bus Name: JABBAR	|
+ | Seat No.: 0	| Fare: 278		|
+ | PNR: 1111				|
+  -------------------------------------
+  * Note your PNR for future reference
+ 
+ 
+  Enter your name: a
+ 
+ 
+  ------------ YOUR TICKET ------------
+ | Name: a				|
+ | Bus ID: 1	| Bus Name: JABBAR	|
+ | Seat No.: 0	| Fare: 278		|
+ | PNR: 1112				|
+  -------------------------------------
+  * Note your PNR for future reference
+ 
+ 
+  Enter your name: d
+ 
+ 
+  ------------ YOUR TICKET ------------
+ | Name: d				|
+ | Bus ID: 1	| Bus Name: JABBAR	|
+ | Seat No.: 0	| Fare: 278		|
+ | PNR: 1113				|
+  -------------------------------------
+  * Note your PNR for future reference
+ 
+ 
+  Enter your name: ee
+ 
+ 
+  ------------ YOUR TICKET ------------
+ | Name: ee				|
+ | Bus ID: 1	| Bus Name: JABBAR	|
+ | Seat No.: 0	| Fare: 278		|
+ | PNR: 1114				|
+  -------------------------------------
+  * Note your PNR for future reference
+ 
+ 
+ --------------------------------
+ |		1. BOOKING				 |
+ |_______________________________|
+ |		2. CANCELLATION			 |
+ |_______________________________|
+ |		3. CHECK STATUS			 |
+ |_______________________________|
+ |		4. EXIT				   	 |
+ |_______________________________|
+ 
+ 2
+ 
+  Enter Bus Id: 1
+  Enter PNR No: 114
+ 
+  Passenger Name :y		SeatNo. :4
+  Departure :Pune			Destination :Nagar
+ 
+  Comfirm Cancellation? Y/N :  y
+ Cancellation Successful
+ --------------------------------
+ |		1. BOOKING				 |
+ |_______________________________|
+ |		2. CANCELLATION			 |
+ |_______________________________|
+ |		3. CHECK STATUS			 |
+ |_______________________________|
+ |		4. EXIT				   	 |
+ |_______________________________|
+ 
+ 3
+ 
+  Enter Bus Id: 1
+  Enter PNR No: 1111
+ 
+  Passenger Name :a		SeatNo. :4
+  Departure :Pune			Destination :Nagar
+ 
+  Booking Status: Seat Confirmed
+ --------------------------------
+ |		1. BOOKING				 |
+ |_______________________________|
+ |		2. CANCELLATION			 |
+ |_______________________________|
+ |		3. CHECK STATUS			 |
+ |_______________________________|
+ |		4. EXIT				   	 |
+ |_______________________________|
+ 
+ 3
+ 
+  Enter Bus Id: 1
+  Enter PNR No: 1112
+ 
+  Passenger Name :a		SeatNo. :8
+  Departure :Pune			Destination :Nagar
+ 
+  Booking Status: Seat Confirmed
+ --------------------------------
+ |		1. BOOKING				 |
+ |_______________________________|
+ |		2. CANCELLATION			 |
+ |_______________________________|
+ |		3. CHECK STATUS			 |
+ |_______________________________|
+ |		4. EXIT				   	 |
+ |_______________________________|
+ 
+ 3
+ 
+  Enter Bus Id: 1
+  Enter PNR No: 1114
+ 
+  Passenger Name :ee		SeatNo. :10
+  Departure :Pune			Destination :Nagar
+ 
+  Booking Status: Seat Confirmed
+ 
+ 
